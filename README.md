@@ -10,3 +10,4 @@ This page will include basic information about who I am and my public informatio
 Will keep track of all the changes made to this Repository.
 
 ### Updates: 
+-Created Profile Page(HTML)
